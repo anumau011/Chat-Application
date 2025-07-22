@@ -123,56 +123,19 @@ python run.py
 
 ## 🎯 **Usage**
 
-### 🚀 **Quick Start Guide**
-
-1. **📝 Join the chat**: Enter your username when prompted
-   ![Username Entry](./screenshots/username-modal.png)
-
-2. **👤 Select a user**: Click on any user from the sidebar to start a private conversation
-   ![User Selection](./screenshots/chat-interface.png)
-
-3. **💬 Send messages**: Type your message and press Enter or click the send button
-   ![Private Chat](./screenshots/private-conversation.png)
-
-4. **🔄 Switch conversations**: Click on different users to switch between private chats
-
-5. **⚡ Real-time messaging**: Messages appear instantly for both users
-
-### 📱 **Multi-Device Support**
-The application works seamlessly across all devices:
-![Mobile Responsive](./screenshots/mobile-responsive.png)
+1. **Join the chat**: Enter your username when prompted
+2. **Select a user**: Click on any user from the sidebar to start a private conversation
+3. **Send messages**: Type your message and press Enter or click the send button
+4. **Switch conversations**: Click on different users to switch between private chats
+5. **Real-time messaging**: Messages appear instantly for both users
 
 ## 🖥️ **Interface Overview**
 
-### 🎨 **Design Highlights**
-
-| Component | Description | Preview |
-|-----------|-------------|---------|
-| **Left Sidebar** | Shows your username and list of online users with avatars | ![Sidebar](./screenshots/chat-interface.png) |
-| **Main Chat Area** | Displays the selected private conversation with message bubbles | ![Chat Area](./screenshots/private-conversation.png) |
-| **Welcome Screen** | Beautiful landing screen when no conversation is selected | ![Welcome](./screenshots/chat-interface.png) |
-| **Message Bubbles** | Your messages (blue gradient) vs others (white with border) | ![Messages](./screenshots/private-conversation.png) |
-| **User Avatars** | Circular avatars showing the first letter of each username | ![Avatars](./screenshots/chat-interface.png) |
-
-### 📐 **Responsive Design**
-- **Desktop**: Full sidebar with expanded user list
-- **Tablet**: Condensed sidebar with touch-friendly controls  
-- **Mobile**: Collapsible sidebar with optimized touch interface
-
-![Responsive Design](./screenshots/mobile-responsive.png)
-
-## 🚀 **Live Demo**
-
-### 🔥 **Multi-User Chat Demo**
-Experience real-time private messaging:
-
-![Multi-User Demo](./screenshots/multi-user-demo.png)
-
-**Test the app with multiple users:**
-1. Open `http://localhost:5000` in multiple browser tabs
-2. Use different usernames in each tab
-3. Start private conversations between users
-4. Watch messages appear in real-time!
+- **Left Sidebar**: Shows your username and list of online users
+- **Main Chat Area**: Displays the selected private conversation
+- **Welcome Screen**: Shows when no conversation is selected
+- **Message Bubbles**: Your messages (blue) vs others (white)
+- **User Avatars**: Show the first letter of each username
 
 ## 🔧 **Modular Components**
 
