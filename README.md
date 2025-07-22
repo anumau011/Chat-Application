@@ -16,14 +16,6 @@ A real-time private chat application built with Flask and Socket.IO featuring a 
 ![Private Chat](./screenshots/private-conversation.png)
 *Real-time private messaging with message bubbles and timestamps*
 
-### 📱 **Mobile Responsive**
-![Mobile View](./screenshots/mobile-responsive.png)
-*Fully responsive design that works perfectly on mobile devices*
-
-### 🌐 **Multi-User Demo**
-![Multi-User Chat](./screenshots/multi-user-demo.png)
-*Multiple users chatting simultaneously in separate private conversations*
-
 > **Note**: To add actual screenshots, create a `screenshots/` folder in your project and add the PNG files mentioned above. You can take screenshots while the app is running and save them with these exact names.
 
 ## 🏗️ **Modular Architecture**
